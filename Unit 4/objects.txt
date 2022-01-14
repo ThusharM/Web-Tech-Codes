@@ -1,0 +1,10 @@
+Builtin objects in Node JS
+1)Global type:Object
+2)Console:Prints std I/O
+3)Process:provides interaction with current Node and can be accessed from anywhwere
+4)Class:Provides binary data that can be used
+5)Require:Includes modules in other js files.It is not global but local
+6)Filename:Contains absolute path of current filename
+console.log(__filename)
+7)Dirname:Containts path to root dir 
+console.log(__dirname)
